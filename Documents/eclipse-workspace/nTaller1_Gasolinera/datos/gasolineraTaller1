@@ -1,0 +1,13 @@
+tipo:extra:21090:50.0
+tipo:corriente:14500:100.0
+tipo:f1:240000:35.0
+tipo:plus:16251:80.0
+surtidor:Bob:extra:0.0:corriente:0.0:f1:0.0:plus:0.0
+surtidor:Bob:extra:0.0:corriente:0.0:f1:0.0:plus:0.0
+surtidor:Charly:extra:0.0:corriente:0.0:f1:0.0:plus:0.0
+surtidor:Alice:extra:0.0:corriente:0.0:f1:0.0:plus:0.0
+empleado:Bob:0
+empleado:Alice:0
+empleado:David:0
+empleado:Elias:0
+empleado:Charly:0
